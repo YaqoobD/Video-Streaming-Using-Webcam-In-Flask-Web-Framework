@@ -1,6 +1,6 @@
 # Video-Streaming-Using-Webcam-In-Flask-Web-Framework
 
-Welcome to the README file for the "Video Streaming Using Webcam in Flask Web Framework" project. This project is a simple implementation of video streaming using the Flask web framework and the webcam on your computer.
+Welcome to the README file for the "Video Streaming Using Webcam in Flask Web Framework" project. This project is a simple implementation of video streaming using the Flask web framework and the webcam on your computer. OpenCV has been used to capture the video feed.
 
 To use this project, you will need to have Python and Flask installed on your computer. You can download Python from the official website (https://www.python.org/downloads/) and install Flask by running the command "pip install Flask" in your terminal.
 
